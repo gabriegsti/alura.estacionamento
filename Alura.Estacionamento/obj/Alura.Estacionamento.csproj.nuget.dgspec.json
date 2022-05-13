@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Alura.Estacionamento - Final\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {}
+    "C:\\Users\\aluno06.TSACBRRJLP046\\source\\repos\\alura.estacionamento\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Alura.Estacionamento - Final\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+    "C:\\Users\\aluno06.TSACBRRJLP046\\source\\repos\\alura.estacionamento\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Alura.Estacionamento - Final\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\aluno06.TSACBRRJLP046\\source\\repos\\alura.estacionamento\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "projectName": "Alura.Estacionamento",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Alura.Estacionamento - Final\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Alura.Estacionamento - Final\\Alura.Estacionamento\\obj\\",
+        "projectPath": "C:\\Users\\aluno06.TSACBRRJLP046\\source\\repos\\alura.estacionamento\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "packagesPath": "C:\\Users\\aluno06.TSACBRRJLP046\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aluno06.TSACBRRJLP046\\source\\repos\\alura.estacionamento\\Alura.Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aluno06.TSACBRRJLP046\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
